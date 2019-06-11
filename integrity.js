@@ -33,7 +33,9 @@ function getFile (url) {
   // the "easy way"; returns file buffer
   const filename = url.substring(url.lastIndexOf('/')+1)
   cp.execSync(`curl -Lso /tmp/${filename} ${url}`)
-  return fs.readFileSync(`/tmp/${filename}`)
+  const contents = fs.readFileSync(`/tmp/${filename}`)
+  fs.unlinkSync(`/tmp/${filename}`) // delete tmp file
+  return contents
 }
 
 function getJson (type) {
