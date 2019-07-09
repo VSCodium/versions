@@ -70,7 +70,7 @@ function compareSums (sums, json) {
 }
 
 
-async function validateAssets () {
+async function validateAssets (throwErrors = false) {
   const results = {}
   for (let type in TYPES) {
     console.log('Checking', type, '...')
@@ -81,11 +81,13 @@ async function validateAssets () {
       console.log('Downloaded asset. Computing sums ...')
       const sums = await getSums(file)
       const valid = compareSums(sums, json)
+      if (!valid && throwErrors) throw new Error(`Invalid hashes for ${type} ${json.productVersion}`)
       results[type] = valid
         ? `Hashes match (${json.productVersion})`
         : `Invalid hashes (${json.productVersion})`
       console.log(results[type])
     } catch (e) {
+      if (throwErrors) throw e
       console.log('Encountered an error, skipping ...')
       results[type] = `Error: ${e.message}`
     }
@@ -94,4 +96,4 @@ async function validateAssets () {
   console.log(JSON.stringify(results, null, 4))
 }
 
-validateAssets()
+validateAssets(process.argv[2] === 'test')
