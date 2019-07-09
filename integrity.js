@@ -81,7 +81,9 @@ async function validateAssets () {
       console.log('Downloaded asset. Computing sums ...')
       const sums = await getSums(file)
       const valid = compareSums(sums, json)
-      results[type] = valid ? 'Hashes match' : 'Invalid hashes'
+      results[type] = valid
+        ? `Hashes match (${json.productVersion})`
+        : `Invalid hashes (${json.productVersion})`
       console.log(results[type])
     } catch (e) {
       console.log('Encountered an error, skipping ...')
