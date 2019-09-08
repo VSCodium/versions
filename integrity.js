@@ -8,6 +8,8 @@ const BASE='https://raw.githubusercontent.com/VSCodium/versions/master/'
 const TYPES = {
   win32Archive: 'win32/ia32/archive/',
   win64Archive: 'win32/x64/archive/',
+  win32System: 'win32/ia32/system/',
+  win64System: 'win32/x64/system/',
   win32User: 'win32/ia32/user/',
   win64User: 'win32/x64/user/',
   darwin: 'darwin/',
@@ -84,7 +86,7 @@ async function validateAssets (throwErrors = false) {
       if (!valid && throwErrors) throw new Error(`Invalid hashes for ${type} ${json.productVersion}`)
       results[type] = valid
         ? `Hashes match (${json.productVersion})`
-        : `Invalid hashes (${json.productVersion})`
+        : `Invalid hashes (${json.productVersion}) - (want: ${sums.sha256}, got: ${json.sha256hash}), (want: ${sums.sha1}, got: ${json.hash})`
       console.log(results[type])
     } catch (e) {
       if (throwErrors) throw e
