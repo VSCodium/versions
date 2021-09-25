@@ -1,1 +1,9 @@
-Downloading artifact 'VSCodiumUserSetup-arm64-1.60.2.exe' { "url": "https://github.com/VSCodium/vscodium/releases/download/1.60.2/VSCodiumUserSetup-arm64-1.60.2.exe", "name": "1.60.2", "version": "7f6ab5485bbc008386c4386d08766667e155244e", "productVersion": "1.60.2", "hash": "75fbdce512326a71339919ec68c977af8f6107b1", "timestamp": "1632609389189", "sha256hash": "26f0f8b41ff1b18b95c7f2f8d9098d2b081fa7e68b2c393edacf0acf534c5d02" }
+{
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.60.2/VSCodiumUserSetup-arm64-1.60.2.exe",
+  "name": "1.60.2",
+  "version": "7f6ab5485bbc008386c4386d08766667e155244e",
+  "productVersion": "1.60.2",
+  "hash": "75fbdce512326a71339919ec68c977af8f6107b1",
+  "timestamp": "1632611775693",
+  "sha256hash": "26f0f8b41ff1b18b95c7f2f8d9098d2b081fa7e68b2c393edacf0acf534c5d02"
+}
