@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.63.1/VSCodiumUserSetup-ia32-1.63.1.exe",
-  "name": "1.63.1",
-  "version": "fe719cd3e5825bf14e14182fddeb88ee8daf044f",
-  "productVersion": "1.63.1",
-  "hash": "6b4889b6fc46f32446bb1d19d5bf071b512d3923",
-  "timestamp": "1639529194822",
-  "sha256hash": "24d5b8ddb30ead8d5c1244ccbff37a9fe080cf0f5207237dd9fedb55c4eac526"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.63.2/VSCodiumUserSetup-ia32-1.63.2.exe",
+  "name": "1.63.2",
+  "version": "899d46d82c4c95423fb7e10e68eba52050e30ba3",
+  "productVersion": "1.63.2",
+  "hash": "b2a51b6cbacbaa547155079c6e1d853fdf80540a",
+  "timestamp": "1639701595090",
+  "sha256hash": "b4bb9dbd0c6ef4880ccfb0d1611a38ff30c83fdf091d77c6b23d40595fee936a"
 }
