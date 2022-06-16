@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.68.0/VSCodium-x64-1.68.0.msi",
-  "name": "1.68.0",
-  "version": "4af164ea3a06f701fe3e89a2bcbb421d2026b68f",
-  "productVersion": "1.68.0",
-  "hash": "e4aed7cdb8d4db7dad39f7ec05cca97ba9d66cba",
-  "timestamp": "1654952287749",
-  "sha256hash": "ba6b984474955ef1cb8f6b5999f5d034371c73d8e4cc9cff9fdef0d5ff9fc646"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.68.1/VSCodium-x64-1.68.1.msi",
+  "name": "1.68.1",
+  "version": "30d9c6cd9483b2cc586687151bcbcd635f373630",
+  "productVersion": "1.68.1",
+  "hash": "77aae24e180742f138d2efe0fef06d6aed3b45aa",
+  "timestamp": "1655340825868",
+  "sha256hash": "6c8a407f17bd98d6e324ec4012b8d917fa0c4b24921e17659cb9869ac2725386"
 }
