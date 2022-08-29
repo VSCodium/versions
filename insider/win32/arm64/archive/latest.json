@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.71.0.22241-insider/VSCodium-win32-arm64-1.71.0.22241-insider.zip",
+  "name": "1.71.0.22241-insider",
+  "version": "c08ab55259a612c6d5ad54169871256ffdd7a1a9",
+  "productVersion": "1.71.0.22241-insider",
+  "hash": "fa1d6d85dc7fa417f22194233b6665962bdbf48a",
+  "timestamp": "1661812027922",
+  "sha256hash": "6fc89925b878c4587c17fee5182a56db1cde981b3131aaaec939f61d49ef4520"
+}

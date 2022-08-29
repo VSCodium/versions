@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.71.0.22241-insider/VSCodiumSetup-arm64-1.71.0.22241-insider.exe",
+  "name": "1.71.0.22241-insider",
+  "version": "c08ab55259a612c6d5ad54169871256ffdd7a1a9",
+  "productVersion": "1.71.0.22241-insider",
+  "hash": "dea9fe69e1ef4996e44d475dfc05199c57da2d27",
+  "timestamp": "1661812027077",
+  "sha256hash": "8747c67241757dd4c3ff007e9a34f2783710205e0f67cdfdde463c1ece668510"
+}
