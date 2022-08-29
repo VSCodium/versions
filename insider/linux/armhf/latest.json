@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.71.0.22241-insider/VSCodium-linux-armhf-1.71.0.22241-insider.tar.gz",
+  "name": "1.71.0.22241-insider",
+  "version": "d16238b902ec8c02baaec9f4560123a545ddca44",
+  "productVersion": "1.71.0.22241-insider",
+  "hash": "7f7f8c0c3603685b185ca117962bd13b09dfc0ca",
+  "timestamp": "1661810729531",
+  "sha256hash": "c3ed3c21a2431d73bc6ea2e7633576ea659ee4c111065c68f65ca8bcf6fadb02"
+}
