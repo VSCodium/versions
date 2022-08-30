@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.71.0.22241-insider/VSCodium-ia32-updates-disabled-1.71.0.22241-insider.msi",
+  "name": "1.71.0.22241-insider",
+  "version": "5ac31f02df08212529cd3d4aa3a9e6be3de88925",
+  "productVersion": "1.71.0.22241-insider",
+  "hash": "68d9468be3a287c81c7f8b253ee8cb296c6ad74f",
+  "timestamp": "1661856690962",
+  "sha256hash": "c2c742ef1985907a6953fef605a6102641fa47ee2a2f37b699d235e7c1a583ac"
+}
