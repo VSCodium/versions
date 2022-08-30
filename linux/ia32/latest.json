@@ -1,9 +1,0 @@
-{
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.35.1/VSCodium-linux-ia32-1.35.1.tar.gz",
-  "name": "1.35.1",
-  "version": "c7d83e57cd18f18026a8162d042843bda1bcf21f",
-  "productVersion": "1.35.1",
-  "hash": "2ec97396a64bef128bbd728e165239d9fac746cb",
-  "timestamp": "1560422592384",
-  "sha256hash": "4350073b44c334c0870bb3f8397153375504f61bb3f06a6897c3c0c3fa14a744"
-}
