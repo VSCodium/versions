@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.73.0.22284-insider/VSCodiumSetup-ia32-1.73.0.22284-insider.exe",
-  "name": "1.73.0.22284-insider",
-  "version": "ee6ab9d8b33a0f65d8129639679351362ca922ed",
-  "productVersion": "1.73.0.22284-insider",
-  "hash": "daa5e66ef33a810777d6b3ef629f0a51142a9b56",
-  "timestamp": "1665477974827",
-  "sha256hash": "71ebcbd8c84f8e65814aeb3878b5de47d35c1925b1ff7d9f583591ba4852fbe7"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.73.0.22285-insider/VSCodiumSetup-ia32-1.73.0.22285-insider.exe",
+  "name": "1.73.0.22285-insider",
+  "version": "6c991b41ffe15c913bc49638e49d333a399bad0f",
+  "productVersion": "1.73.0.22285-insider",
+  "hash": "2c3b2105a37aa381aa0ac59f6c65bdc7e528cb8d",
+  "timestamp": "1665564087875",
+  "sha256hash": "f987bd468757a0027748fc0875e0313d6b6c66b39b40b7efa6a07b1c5594fabe"
 }
