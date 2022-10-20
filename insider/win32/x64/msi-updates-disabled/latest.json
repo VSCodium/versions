@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.73.0.22292-insider/VSCodium-x64-updates-disabled-1.73.0.22292-insider.msi",
-  "name": "1.73.0.22292-insider",
-  "version": "8ab7b3b8ed079d8ca725117a17b66c47e392c579",
-  "productVersion": "1.73.0.22292-insider",
-  "hash": "f7b32e854b56e193a759fd8a7c4e31ac9f96e14e",
-  "timestamp": "1666203895685",
-  "sha256hash": "3383e8d347e8f9892b87848ed5ef1483f67b787729b3d7bc5882a8566d7d2460"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.73.0.22293-insider/VSCodium-x64-updates-disabled-1.73.0.22293-insider.msi",
+  "name": "1.73.0.22293-insider",
+  "version": "7b1577aebeec6458608e9fd5c854ddfd2cab958a",
+  "productVersion": "1.73.0.22293-insider",
+  "hash": "136835d2cc3e3053c5d6189b89cd6347a4c9b1aa",
+  "timestamp": "1666255461491",
+  "sha256hash": "383a5c430efd72de6c8688bc536ca4403ed0b9c4af94cfa718d9933a6a83709e"
 }
