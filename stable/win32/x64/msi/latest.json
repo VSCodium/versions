@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.74.0.22342/VSCodium-x64-1.74.0.22342.msi",
-  "name": "1.74.0.22342",
-  "version": "cb188d662af4ff5d43505b572b49905a1f0153ad",
-  "productVersion": "1.74.0.22342",
-  "hash": "7be87aa22ffbdb0b91ae2e8a9e4654b659eaca72",
-  "timestamp": "1670531026124",
-  "sha256hash": "9ce089f4ee7111fe0f79ddbf8f4577afd9b9ad20edb96da2cc328150559f5c56"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.74.1.22349/VSCodium-x64-1.74.1.22349.msi",
+  "name": "1.74.1.22349",
+  "version": "13a0ba2641013eb7486bd33a6fa1f0b693177836",
+  "productVersion": "1.74.1.22349",
+  "hash": "8883788a984c6f5a2d6a1917c05d05a59754a7e8",
+  "timestamp": "1671130698703",
+  "sha256hash": "b0662eb18cff58d6dced738155095c91e00279490504991076a0a776628ff913"
 }
