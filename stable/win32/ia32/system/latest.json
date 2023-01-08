@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/VSCodium/vscodium/releases/download/1.74.2.23007/VSCodiumSetup-ia32-1.74.2.23007.exe",
   "name": "1.74.2.23007",
-  "version": "",
+  "version": "af4da1e3a10b45cad1fdac5a247acd984ac3286b",
   "productVersion": "1.74.2.23007",
   "hash": "7bfb4a990c0ee2cbb76daa480298eb0df5f5586b",
   "timestamp": "1673188705942",
