@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.77.0.23088-insider/VSCodium-ia32-1.77.0.23088-insider.msi",
-  "name": "1.77.0.23088-insider",
-  "version": "d579cdfe44c92b3de93dfa93d6e660719d0787b4",
-  "productVersion": "1.77.0.23088-insider",
-  "hash": "a1147793b064dd6f5cf7cd2604b95ec3b5e4832e",
-  "timestamp": "1680080266707",
-  "sha256hash": "addfbf3a60736e46f4de79227d592a549125b780204b2730183ad6014a405c30"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.77.0.23089-insider/VSCodium-ia32-1.77.0.23089-insider.msi",
+  "name": "1.77.0.23089-insider",
+  "version": "9ce747aaf3c7d143ec35e61a92ed5194ddb7776f",
+  "productVersion": "1.77.0.23089-insider",
+  "hash": "48323a947c0fc4c20a4cfd68b7a5b445dc3dc155",
+  "timestamp": "1680166022923",
+  "sha256hash": "7ae9ecd93d3a7def82ce2ddd8163571b69929b57adaccfd2ae5b6acae9139a8c"
 }
