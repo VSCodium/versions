@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.76.2.23074/VSCodiumSetup-ia32-1.76.2.23074.exe",
-  "name": "1.76.2.23074",
-  "version": "22a808587994126e19125c6a1a03c00b990223f4",
-  "productVersion": "1.76.2.23074",
-  "hash": "98a420802151712a3a42824e6a2377cc70e5c604",
-  "timestamp": "1678906638775",
-  "sha256hash": "a003f1954084b368d1a79740e8cf3f2c1a2c78b5a792aeed99f4be2dec528310"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.0.23090/VSCodiumSetup-ia32-1.77.0.23090.exe",
+  "name": "1.77.0.23090",
+  "version": "62a2a44bde290e39439c23be84092d510cb7a076",
+  "productVersion": "1.77.0.23090",
+  "hash": "52d9c3a69b84bbb4b86b56b95c2990cd3a98dfb1",
+  "timestamp": "1680271679146",
+  "sha256hash": "c7063f3beaaa95f9d6bffe42cfff77ca85bd2e735a4758448c2792226aafb8a4"
 }
