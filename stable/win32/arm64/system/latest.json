@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.2.23101/VSCodiumSetup-arm64-1.77.2.23101.exe",
-  "name": "1.77.2.23101",
-  "version": "c64318cc95a5117c4429b888729090415891184e",
-  "productVersion": "1.77.2.23101",
-  "hash": "bb0fa82232f8a9bd779b187faaf5440ffcf3bd06",
-  "timestamp": "1681238235438",
-  "sha256hash": "71dd6cbcfccc87b9b28414adfa03ec83fbc66e96380c231350c6dd411eab1ba2"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.3.23102/VSCodiumSetup-arm64-1.77.3.23102.exe",
+  "name": "1.77.3.23102",
+  "version": "650fc437e02159df39d99355a91b2e3b1f1220c5",
+  "productVersion": "1.77.3.23102",
+  "hash": "8996f4050dabd51089fd1c98f772d0eb3d8b924f",
+  "timestamp": "1681324748107",
+  "sha256hash": "b75704f05240cd81f03fd24791376ccc82fbe567a813a0a11d178e0feb86e80d"
 }
