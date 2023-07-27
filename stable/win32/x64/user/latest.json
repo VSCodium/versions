@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.1.23194/VSCodiumUserSetup-x64-1.80.1.23194.exe",
-  "name": "1.80.1.23194",
-  "version": "77ff082dba0bc91978df4a7acd7f42007abde4cc",
-  "productVersion": "1.80.1.23194",
-  "hash": "b74b9136d6ecfa8a09171ef649e4dfa8078ad78a",
-  "timestamp": "1689273979205",
-  "sha256hash": "2aae3dc3df665533a669176be28841c2fe1dcec762a54171494e0397c0366d76"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.1.23208/VSCodiumUserSetup-x64-1.80.1.23208.exe",
+  "name": "1.80.1.23208",
+  "version": "1e2ca58d5cc47bce9de68d1c00f3105fb006a11e",
+  "productVersion": "1.80.1.23208",
+  "hash": "97c76c38df97113f84ba8af7f9dbad31ca043562",
+  "timestamp": "1690420420577",
+  "sha256hash": "0dd36a23f6c6319398f12b4fa4bb69f188d14e4930eecfe354c4a848d75ef71b"
 }
