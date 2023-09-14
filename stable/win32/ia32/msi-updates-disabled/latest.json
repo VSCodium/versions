@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.82.1.23255/VSCodium-ia32-updates-disabled-1.82.1.23255.msi",
-  "name": "1.82.1.23255",
-  "version": "46f4fa509f46c0690d480efd13d33515702f0a15",
-  "productVersion": "1.82.1.23255",
-  "hash": "1b51c29fd1198f8e196408adfa51658adb12ffe4",
-  "timestamp": "1694544105501",
-  "sha256hash": "626527e669d2701ae25da58e3735afc401e41398115048a6d5c2e0ef2ffdd675"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.82.2.23257/VSCodium-ia32-updates-disabled-1.82.2.23257.msi",
+  "name": "1.82.2.23257",
+  "version": "a5004432af6600c99fa4f918a3f2f8df44df71e6",
+  "productVersion": "1.82.2.23257",
+  "hash": "06cf77b96f6c707dba6efb4b4dab0c9418752d78",
+  "timestamp": "1694716955352",
+  "sha256hash": "905d5f2da14a3374c236a5e5e8d8c6c2bf6076c51bbecf802cb515cab3502b9b"
 }
