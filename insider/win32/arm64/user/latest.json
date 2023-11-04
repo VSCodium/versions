@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.85.0.23307-insider/VSCodiumUserSetup-arm64-1.85.0.23307-insider.exe",
-  "name": "1.85.0.23307-insider",
-  "version": "c6a251800134c3eb375632c035c836c5d8f6b7a5",
-  "productVersion": "1.85.0.23307-insider",
-  "hash": "46bb4d7cadef11835d0329fa607fce49f05478e4",
-  "timestamp": "1699000494494",
-  "sha256hash": "5809aa9b527710cba2463f7f8d256d16d767e54e82bc634d4eaa1b6df1ea06d3"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.85.0.23308-insider/VSCodiumUserSetup-arm64-1.85.0.23308-insider.exe",
+  "name": "1.85.0.23308-insider",
+  "version": "7d2c519ef9f46605712657463614a8be2c16ca5d",
+  "productVersion": "1.85.0.23308-insider",
+  "hash": "d07f1bccaf0a6d92068669c22d8eb2c2e19d0f75",
+  "timestamp": "1699087099735",
+  "sha256hash": "49374932f34704fb14fe0126ba9b152c991e00272eb84986a37950eb34775653"
 }
