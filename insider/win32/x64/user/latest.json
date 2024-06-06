@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.90.0.24153-insider/VSCodiumUserSetup-x64-1.90.0.24153-insider.exe",
-  "name": "1.90.0.24153-insider",
-  "version": "bcf92850745b6dc2f6a065eff89ff4bf55ddb216",
-  "productVersion": "1.90.0.24153-insider",
-  "hash": "4c3652e6370d2a4b008bb9fb1e2743faaea2c12a",
-  "timestamp": "1717265534289",
-  "sha256hash": "a65a5f279d89101e65d885794f95f2d270af612264a9e8e1295594fbacf5bf93"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.90.0.24158-insider/VSCodiumUserSetup-x64-1.90.0.24158-insider.exe",
+  "name": "1.90.0.24158-insider",
+  "version": "cc102f3a62bd35f39ed059b99c5cce90e50a16e2",
+  "productVersion": "1.90.0.24158-insider",
+  "hash": "89d521cb7b89d59c21d15340c9d5ebf805999473",
+  "timestamp": "1717689636771",
+  "sha256hash": "580adb5d60e03939f43b2b3f6e5af3293f2391071ecd443655acd7c85143d8d5"
 }
