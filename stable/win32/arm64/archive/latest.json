@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.93.0.24253/VSCodium-win32-arm64-1.93.0.24253.zip",
-  "name": "1.93.0.24253",
-  "version": "44560ce62f89cd33130676a7c21c22b476173a94",
-  "productVersion": "1.93.0.24253",
-  "hash": "633998bbb082eed9611e99361cc09a5e16a8c75a",
-  "timestamp": "1725890737777",
-  "sha256hash": "49eeddbe560c5de71c1b4e14917204155b35ccddeb12bdeb6700b70b8520d214"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.93.1.24256/VSCodium-win32-arm64-1.93.1.24256.zip",
+  "name": "1.93.1.24256",
+  "version": "dbab3f8e8c5da7ca1bde636806e0a973e497aa01",
+  "productVersion": "1.93.1.24256",
+  "hash": "419b456c706c7f99f3d5f16ee24418a30bb392b6",
+  "timestamp": "1726166941889",
+  "sha256hash": "92369ae5f2dabd24f815ba44dda333ed17ab47cdf86f7b33356792079c9cf670"
 }
