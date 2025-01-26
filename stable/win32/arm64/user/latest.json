@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.96.4.25017/VSCodiumUserSetup-arm64-1.96.4.25017.exe",
-  "name": "1.96.4.25017",
-  "version": "3fbfa3d78a491a8cea397a4a0dad3116ad14fdee",
-  "productVersion": "1.96.4.25017",
-  "hash": "34893f288fc99f0106156b44187e627ab8240d7c",
-  "timestamp": "1737207050616",
-  "sha256hash": "4b899617889e62cbfa20c34258b5e6cd426ddf95d76c30043428ce96cb3f87ca"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.96.4.25026/VSCodiumUserSetup-arm64-1.96.4.25026.exe",
+  "name": "1.96.4.25026",
+  "version": "06487dbc453a56dbaa4ce833d9d062396e7f7826",
+  "productVersion": "1.96.4.25026",
+  "hash": "41962bc19dff43d3fbb9845ef050b523902c5e62",
+  "timestamp": "1737898707634",
+  "sha256hash": "75bded407b8999c530cf68f4547c32440a29dec1c7085fa9cac0a8e5d70f341f"
 }
