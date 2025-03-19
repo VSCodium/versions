@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25072/VSCodium-linux-arm64-1.98.2.25072.tar.gz",
-  "name": "1.98.2.25072",
-  "version": "c6b0b68cdb1a0ec15f1eb97d903aa1855445fd42",
-  "productVersion": "1.98.2.25072",
-  "hash": "ea26defef93b68f4d6bb3eea2deb11b1866acf7e",
-  "timestamp": "1741890779325",
-  "sha256hash": "1e2aabc3a7fb496cdd3d0095d2cd5df9c5b0436bb83d50d8f2c68bd50fa66508"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25078/VSCodium-linux-arm64-1.98.2.25078.tar.gz",
+  "name": "1.98.2.25078",
+  "version": "c6286962b0f5f2c3ad5e558a439dc3fcfd20b2ac",
+  "productVersion": "1.98.2.25078",
+  "hash": "28407680be6f0a723a4e076897e666bea8312552",
+  "timestamp": "1742345188878",
+  "sha256hash": "c1ac7ab53164686b0ab0eae47dc5c5d72bc1b159947b13707bb01ec74e074bf4"
 }
