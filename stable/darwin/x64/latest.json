@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25077/VSCodium-darwin-x64-1.98.2.25077.zip",
-  "name": "1.98.2.25077",
-  "version": "e58affbb4d12cbb8e7b11a6555ddf40e61ca59ab",
-  "productVersion": "1.98.2.25077",
-  "hash": "d2d38e48743120b5910225eeef0e584ea3843d0e",
-  "timestamp": "1742328965413",
-  "sha256hash": "ae44a96360a00b1e70d0462e2a715898c614e8d653efec238088e21db9a4b1ca"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.98.2.25078/VSCodium-darwin-x64-1.98.2.25078.zip",
+  "name": "1.98.2.25078",
+  "version": "c6286962b0f5f2c3ad5e558a439dc3fcfd20b2ac",
+  "productVersion": "1.98.2.25078",
+  "hash": "c0f2f04df56142863f33194dad85df0ff8fe9dde",
+  "timestamp": "1742345509087",
+  "sha256hash": "d8c1014a38b2e02b7846b95bb03e998983bb15bde115c427cd9a5ad568cc2976"
 }
