@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.103.05263-insider/VSCodium-darwin-arm64-1.103.05263-insider.zip",
-  "name": "1.103.05263-insider",
-  "version": "03e493011b79f7cd60f34714788da655fa0db26a",
-  "productVersion": "1.103.5263.0-insider",
-  "hash": "4c74e7d93b9c04c3fc7cd3662388790c660953c0",
-  "timestamp": "1754554710248",
-  "sha256hash": "31c8df9f85b2e06d28a5c4507dc6da62395b17d3e6ee0b216e329432b9ac0cb9"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.104.05313-insider/VSCodium-darwin-arm64-1.104.05313-insider.zip",
+  "name": "1.104.05313-insider",
+  "version": "3a9310fbf3ccae6ad1d67c81bb68471404f1e744",
+  "productVersion": "1.104.5313.0-insider",
+  "hash": "700bcbc057101497ad820f987dcbb2118a430e46",
+  "timestamp": "1754735427712",
+  "sha256hash": "9c25d1b75060381430fe97a3ea877889d157675f4c391b9552afe05957974e9d"
 }
