@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.103.25610/VSCodium-linux-armhf-1.103.25610.tar.gz",
-  "name": "1.103.25610",
-  "version": "3201acb5f9f58a1d304afaeb4776f6ec53700cd3",
-  "productVersion": "1.103.25610.0",
-  "hash": "80767bf01025e279e6d4904cdd468ae574b6c185",
-  "timestamp": "1755803100176",
-  "sha256hash": "c010a2fb133aeb9c4c4655bc637eb6f7a305e988bb23e7d502482aa0204edac7"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.104.06114/VSCodium-linux-armhf-1.104.06114.tar.gz",
+  "name": "1.104.06114",
+  "version": "e922026c2a22bb370676cbc1cb0fe378c8f383cd",
+  "productVersion": "1.104.6114.0",
+  "hash": "7a41ccc91063fb863e3ca1526ba14d8ca50b2e8e",
+  "timestamp": "1757616734416",
+  "sha256hash": "26a112420c55006f8d4c551412ac5908ffaeb71633c0506feb9c6e4144d165f5"
 }
