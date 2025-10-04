@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.104.26450/VSCodium-x64-updates-disabled-1.104.26450.msi",
-  "name": "1.104.26450",
-  "version": "df23b135987b9b1449efdfb550fe90f38539b749",
-  "productVersion": "1.104.26450.0",
-  "hash": "ec3552f337ad10e3b5c1ae172daa54cf73c9a045",
-  "timestamp": "1758834288836",
-  "sha256hash": "f31e2175b3d9674c234634ddf12d5b608d1d0b7f7fca88e40c95c689db4d5db0"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.104.36664/VSCodium-x64-updates-disabled-1.104.36664.msi",
+  "name": "1.104.36664",
+  "version": "3af140d2498acc8743822d23d4171fe1eac449ec",
+  "productVersion": "1.104.36664.0",
+  "hash": "9cb1f43b6c3a461aa61c889c8253abeb1875bdf5",
+  "timestamp": "1759607958077",
+  "sha256hash": "68249e35077a4063719f2efe647e350a1a5b6eaf179c0d241d312a60dd4b8ff0"
 }
