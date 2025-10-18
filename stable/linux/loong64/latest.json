@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.105.16954/VSCodium-linux-loong64-1.105.16954.tar.gz",
-  "name": "1.105.16954",
-  "version": "a76366366dcaeff534f03d46b5cd4439eeb9cdeb",
-  "productVersion": "1.105.16954.0",
-  "hash": "f1c890285599d6b44968718b22bcf275226c26ee",
-  "timestamp": "1760640392191",
-  "sha256hash": "ad5555bb521ffe84088b62b765c6f9166207dab8a051dd3a347bc38bc363cdd1"
+  "url": "https://github.com/VSCodium/vscodium/releases/download/1.105.16999/VSCodium-linux-loong64-1.105.16999.tar.gz",
+  "name": "1.105.16999",
+  "version": "124512753d3e94b784855f935b887c9c874284e0",
+  "productVersion": "1.105.16999.0",
+  "hash": "00e942c2479a7beda736afcfc3d33f57d8bc85f3",
+  "timestamp": "1760804556447",
+  "sha256hash": "92501145f2d35cad0630ac8dab75b3f3418812cf70afa7f910c4582195fcabe7"
 }
