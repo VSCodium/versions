@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.126.04497-insider/VSCodium-linux-loong64-1.126.04497-insider.tar.gz",
-  "name": "1.126.04497-insider",
-  "version": "6ab87375575fb5906b106c9a6e72d6437288b358",
-  "productVersion": "1.126.4497.0-insider",
-  "hash": "9a6f570911cff0b5aa5b2bbba104c0b1af7a006b",
-  "timestamp": "1783332933983",
-  "sha256hash": "e0f34baee5b25c8eda430e417dd411967552905a5f029b407f8797d4cf05f520"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.126.04505-insider/VSCodium-linux-loong64-1.126.04505-insider.tar.gz",
+  "name": "1.126.04505-insider",
+  "version": "23df0cc1215e6122a1fccdc174f41612758a786c",
+  "productVersion": "1.126.4505.0-insider",
+  "hash": "78081b7da44f6c0b527fe628571ef1c2fa3c4ba0",
+  "timestamp": "1783365178413",
+  "sha256hash": "5eba455a568b6b8402cff930a03fbdc661cfd28c6c37ef03be20f78f2f664304"
 }
