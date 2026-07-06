@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.126.04411-insider/VSCodium-win32-x64-1.126.04411-insider.zip",
-  "name": "1.126.04411-insider",
-  "version": "0ed532d261bc528f92b56c1c8c251ae1fa7b086d",
-  "productVersion": "1.126.4411.0-insider",
-  "hash": "461a072005bcbcd1c2aaf9a3146c4832ed16c528",
-  "timestamp": "1783027345984",
-  "sha256hash": "15b9f722bdc8693fb35e522cf4cdcd1ca35fa1d172e0f2fc7c36b425a4c36713"
+  "url": "https://github.com/VSCodium/vscodium-insiders/releases/download/1.126.04497-insider/VSCodium-win32-x64-1.126.04497-insider.zip",
+  "name": "1.126.04497-insider",
+  "version": "6ab87375575fb5906b106c9a6e72d6437288b358",
+  "productVersion": "1.126.4497.0-insider",
+  "hash": "f35ce21505c2f13332bf5699c117546313fd39ff",
+  "timestamp": "1783335066445",
+  "sha256hash": "0a07c382cb272c10c80f638750e9981f86237c4c6627f4fd4b51d34778240b07"
 }
