@@ -34,7 +34,9 @@ function getSums (data) {
 function getFile (url) {
   // the "easy way"; returns file buffer
   const filename = url.substring(url.lastIndexOf('/')+1)
-  cp.execSync(`curl -Lso /tmp/${filename} ${url}`)
+  // use execFileSync (no shell) with an argument array so the url/filename
+  // cannot be interpreted as shell metacharacters, preventing command injection
+  cp.execFileSync('curl', ['-Lso', `/tmp/${filename}`, url])
   const contents = fs.readFileSync(`/tmp/${filename}`)
   fs.unlinkSync(`/tmp/${filename}`) // delete tmp file
   return contents
